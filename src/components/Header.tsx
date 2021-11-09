@@ -14,7 +14,7 @@ export function Header() {
             align="center"
         >
             <Text
-                fontsize="3xl"
+                fontSize="3xl"
                 fontWeight="bold"
                 letterSpacing="tight"
                 w="64"
